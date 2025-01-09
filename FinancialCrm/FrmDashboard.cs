@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace FinancialCrm
 {
-    public partial class Form1 : Form
+    public partial class FrmDashboard : Form
     {
-        public Form1()
+        public FrmDashboard()
         {
             InitializeComponent();
         }
